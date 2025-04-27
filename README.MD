@@ -1,1 +1,1 @@
-# Numpy for data
+# Numpy for data science
